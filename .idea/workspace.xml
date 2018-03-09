@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b8d5101-8e17-4e6c-abbd-2ed554a7d167" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/checkpoint/checkpoint.model" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/AZP_P_R等能源.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/AZR_N_T.model" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/AZR_N_T.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/AZR_T.model" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/AZR_T.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/AZR_T2010_2050.model" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/AZTETCB_Data.model" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/AZTETCB_Data.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/AZ三种生产能源占比图.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/AZ三种能源占比图.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/AZ四种生产能源.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/AZ四种能源.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CAP_P_R等能源.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CAR_N_T.model" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CAR_N_T.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CAR_T.model" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CAR_T.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CATETCB_Data.model" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CATETCB_Data.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CA三种生产能源占比图.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CA三种能源占比图.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CA四种生产能源.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CA四种能源.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NMP_P_R等能源.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NMR_N_T.model" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NMR_N_T.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NMR_T.model" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NMR_T.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NMTETCB_Data.model" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NMTETCB_Data.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NM三种生产能源占比图.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NM三种能源占比图.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NM四种生产能源.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NM四种能源.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/P_P_R等.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/P_P_R等最新版.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/TXP_P_R等能源.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/TXR_N_T.model" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/TXR_N_T.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/TXR_T.model" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/TXR_T.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/TXTETCB_Data.model" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/TXTETCB_Data.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/TX三种生产能源占比图.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/TX三种能源占比图.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/TX四种生产能源.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/TX四种能源.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/cross validation  AZ  R_N_T.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/cross validation  AZ  R_T.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/cross validation  AZ  TETCB_Data.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/cross validation  CA  R_N_T.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/cross validation  CA  R_T.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/cross validation  CA  TETCB_Data.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/cross validation  NM  R_N_T.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/cross validation  NM  R_T.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/cross validation  NM  TETCB_Data.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/cross validation  TX  R_N_T.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/cross validation  TX  R_T.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/cross validation  TX  TETCB_Data.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/cross validation.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/cross validationAZ  R_N_T.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/pearson系数图以及神经网络预测图.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/prediction  AZ  R_N_T.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/prediction  AZ  R_T.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/prediction  AZ  TETCB_Data.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/prediction  CA  R_N_T.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/prediction  CA  R_T.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/prediction  CA  TETCB_Data.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/prediction  NM  R_N_T.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/prediction  NM  R_T.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/prediction  NM  TETCB_Data.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/prediction  TX  R_N_T.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/prediction  TX  R_T.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/prediction  TX  TETCB_Data.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/prediction.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/单变量预测（y没预测）.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/生产.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/能源图.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lstmmodel/lsmtmodel.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Cmim.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/CNN.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/GM11.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/huidu.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/jisuan.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/julei.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/lstm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/model.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/model2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/pre.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/pre12.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/AZ  R_N_T预测表.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/AZ  R_T预测表.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/AZ  TETCB_Data预测表.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/AZR_N_TGM_Prediction.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/AZR_N_T预测表.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/AZR_TGM_Prediction.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/AZR_T预测表.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/AZTETCB_DataGM_Prediction.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CA  R_N_T预测表.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CA  R_T预测表.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CA  TETCB_Data预测表.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CAR_N_TGM_Prediction.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CAR_TGM_Prediction.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CATETCB_DataGM_Prediction.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NM  R_N_T预测表.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NM  R_T预测表.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NM  TETCB_Data预测表.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NMR_N_TGM_Prediction.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NMR_TGM_Prediction.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NMTETCB_DataGM_Prediction.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NN_prediction_AZR_N_T.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NN_prediction_AZR_T.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NN_prediction_AZTETCB_Data.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NN_prediction_CAR_N_T.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NN_prediction_CAR_T.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NN_prediction_CATETCB_Data.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NN_prediction_NMR_N_T.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NN_prediction_NMR_T.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NN_prediction_NMTETCB_Data.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NN_prediction_TXR_N_T.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NN_prediction_TXR_T.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/NN_prediction_TXTETCB_Data.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/TX  R_N_T预测表.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/TX  R_T预测表.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/TX  TETCB_Data预测表.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/TXR_N_TGM_Prediction.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/TXR_TGM_Prediction.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/TXTETCB_DataGM_Prediction.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/所有州三类目标变量预测表.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/所有州三类目标变量预测表cross validation.csv" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="model2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code/model2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="35">
+              <caret line="306" column="19" lean-forward="false" selection-start-line="306" selection-start-column="19" selection-end-line="306" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ensure_min_samples</find>
+      <find>ckpt.model_checkpoint_path</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pre12.py" />
+        <option value="$PROJECT_DIR$/pre.py" />
+        <option value="$PROJECT_DIR$/GM.py" />
+        <option value="$PROJECT_DIR$/GM11.py" />
+        <option value="$PROJECT_DIR$/CNN.py" />
+        <option value="$PROJECT_DIR$/../emotion_analysis/CNN.py" />
+        <option value="$PROJECT_DIR$/huidu.py" />
+        <option value="$PROJECT_DIR$/predata.py" />
+        <option value="$PROJECT_DIR$/model.py" />
+        <option value="$PROJECT_DIR$/model2.py" />
+        <option value="S:/Python35/Lib/site-packages/tensorflow/python/training/saver.py" />
+        <option value="$PROJECT_DIR$/lstm.py" />
+        <option value="$PROJECT_DIR$/julei.py" />
+        <option value="$PROJECT_DIR$/jisuan.py" />
+        <option value="$PROJECT_DIR$/code/model2.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="74" />
+    <option name="y" value="302" />
+    <option name="width" value="1473" />
+    <option name="height" value="854" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Cmim" type="cbb8eebc:String" user="Cmim" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Cmim" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cmim" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sufe_jianmo" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.jisuan">
+    <configuration name="CNN" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Cmim" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CNN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="jisuan" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Cmim" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jisuan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="lstm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Cmim" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lstm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="model" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Cmim" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="model2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Cmim" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.model" />
+      <item index="1" class="java.lang.String" itemvalue="Python.CNN" />
+      <item index="2" class="java.lang.String" itemvalue="Python.model2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.lstm" />
+      <item index="4" class="java.lang.String" itemvalue="Python.jisuan" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.jisuan" />
+        <item index="1" class="java.lang.String" itemvalue="Python.lstm" />
+        <item index="2" class="java.lang.String" itemvalue="Python.model2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.model" />
+        <item index="4" class="java.lang.String" itemvalue="Python.CNN" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b8d5101-8e17-4e6c-abbd-2ed554a7d167" name="Default" comment="" />
+      <created>1518153574891</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1518153574891</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.06857451" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17064439" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.50215983" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.08928572" sideWeight="0.49784017" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27207637" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297619" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.50215983" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26785713" sideWeight="0.49784017" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297619" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297619" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26079914" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pre12.py" />
+    <entry file="file://$PROJECT_DIR$/huidu.py" />
+    <entry file="file://$PROJECT_DIR$/pre.py" />
+    <entry file="file://$PROJECT_DIR$/pre12.py" />
+    <entry file="file://$PROJECT_DIR$/pre.py" />
+    <entry file="file://$PROJECT_DIR$/pre.py" />
+    <entry file="file://$PROJECT_DIR$/pre.py" />
+    <entry file="file://$PROJECT_DIR$/pre.py" />
+    <entry file="file://$PROJECT_DIR$/pre.py" />
+    <entry file="file://$PROJECT_DIR$/pre.py" />
+    <entry file="file://$PROJECT_DIR$/pre.py" />
+    <entry file="file://$PROJECT_DIR$/pre.py" />
+    <entry file="file://S:/Python35/Lib/site-packages/sklearn/model_selection/_split.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3596">
+          <caret line="1903" column="4" lean-forward="false" selection-start-line="1903" selection-start-column="4" selection-end-line="1903" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://S:/Python35/Lib/site-packages/sklearn/utils/validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="311" column="50" lean-forward="false" selection-start-line="311" selection-start-column="50" selection-end-line="311" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://S:/Python35/Lib/site-packages/numpy/core/fromnumeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="520" column="0" lean-forward="true" selection-start-line="520" selection-start-column="0" selection-end-line="520" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TXR_T.png" />
+    <entry file="file://$PROJECT_DIR$/AZR_N_T.png" />
+    <entry file="file://$PROJECT_DIR$/GM11.py" />
+    <entry file="file://$PROJECT_DIR$/AZR_T.png" />
+    <entry file="file://S:/Python35/Lib/site-packages/tensorflow/python/client/session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="700" column="0" lean-forward="false" selection-start-line="700" selection-start-column="0" selection-end-line="700" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://S:/Python35/Lib/site-packages/pandas/core/series.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11473">
+          <caret line="3026" column="57" lean-forward="true" selection-start-line="3024" selection-start-column="3" selection-end-line="3026" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../emotion_analysis/CNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-980">
+          <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../emotion_analysis/train_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pre12.py" />
+    <entry file="file://$PROJECT_DIR$/huidu.py" />
+    <entry file="file://$PROJECT_DIR$/AZR_N_T预测表.csv" />
+    <entry file="file://S:/Python35/Lib/site-packages/sklearn/learning_curve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="27" column="4" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cross validation  NM  R_T.png" />
+    <entry file="file://$PROJECT_DIR$/cross validation  CA  R_N_T.png" />
+    <entry file="file://$PROJECT_DIR$/cross validation  CA  TETCB_Data.png" />
+    <entry file="file://$PROJECT_DIR$/cross validation  NM  R_N_T.png" />
+    <entry file="file://$PROJECT_DIR$/cross validation  NM  TETCB_Data.png" />
+    <entry file="file://$PROJECT_DIR$/cross validationAZ  R_N_T.png" />
+    <entry file="file://$PROJECT_DIR$/cross validation  TX  R_N_T.png" />
+    <entry file="file://$PROJECT_DIR$/cross validation  TX  TETCB_Data.png" />
+    <entry file="file://$PROJECT_DIR$/cross validation  AZ  TETCB_Data.png" />
+    <entry file="file://$PROJECT_DIR$/cross validation  AZ  R_T.png" />
+    <entry file="file://$PROJECT_DIR$/cross validation  TX  R_T.png" />
+    <entry file="file://$PROJECT_DIR$/CATETCB_Data.png" />
+    <entry file="file://$PROJECT_DIR$/CNN.py" />
+    <entry file="file://S:/Python35/Lib/site-packages/tensorflow/python/training/saver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-35">
+          <caret line="880" column="50" lean-forward="false" selection-start-line="880" selection-start-column="50" selection-end-line="880" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AZ四种能源.png" />
+    <entry file="file://$PROJECT_DIR$/AZ三种能源占比图.png" />
+    <entry file="file://$PROJECT_DIR$/lstm.py" />
+    <entry file="file://$PROJECT_DIR$/pre.py" />
+    <entry file="file://$PROJECT_DIR$/model.py" />
+    <entry file="file://$PROJECT_DIR$/model2.py" />
+    <entry file="file://$PROJECT_DIR$/julei.py" />
+    <entry file="file://$PROJECT_DIR$/jisuan.py" />
+    <entry file="file://$PROJECT_DIR$/code/model2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="306" column="19" lean-forward="false" selection-start-line="306" selection-start-column="19" selection-end-line="306" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
